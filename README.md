@@ -1,8 +1,16 @@
 # 🚀 Chrome-ext-webpage-data
 
-> 📢 **License Notice:** This code is copyrighted © 2025 Sidheshwar Sarangal.  
-> All rights reserved. No part of this repository may be copied, used, modified, or distributed without **explicit written permission**.  
-> For inquiries, contact sidheshwar.sarangal@gmail.com.
+## 📄 License Notice
+
+**Copyright © 2025 Sidheshwar Sarangal**  
+All rights reserved.
+
+This repository may be **cloned from github repo and used** for personal purposes only.  
+It may **not be copied, modified, or distributed** in any form without **explicit written permission** from the author.
+
+No license is granted beyond basic usage and cloning.
+
+For permissions or inquiries, please contact: **sidheshwar.sarangal@gmail.com**
 
 ---
 
