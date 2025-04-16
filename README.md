@@ -4,8 +4,6 @@
 > All rights reserved. No part of this repository may be copied, used, modified, or distributed without **explicit written permission**.  
 > For inquiries, contact sidheshwar.sarangal@gmail.com.
 
-**Chrome-ext-webpage-data** is a simple and powerful Chrome extension that allows users to extract **text and images** from any webpage, convert them into a readable format, and **download the content as a `.txt` file**.
-
 ---
 
 **Chrome-ext-webpage-data** is a simple and powerful Chrome extension that allows users to extract **text and images** from any webpage, convert them into a readable format, and **download the content as a `.txt` file**.
