@@ -18,8 +18,16 @@ For permissions or inquiries, please contact: **sidheshwar.sarangal@gmail.com**
 
 ---
 
+## 🔗 Visit this WEBPAGE to know more about this extension
+
+Check out the deployed version here:  
+[🚀 chrome--extension-info Website](https://sidheshwarsarangal.github.io/chrome--extension-info/)
+<sub>Right-click or Ctrl+Click to open in a new tab</sub>
+
 ## 📦 Features
 
+- Useful for product managers and consultants as it enables them to instantly get summerized and precise information from web pages!!!!
+- No need to go through a lot of data. Just Use this extension and make it simple for you to collect information from internet.
 - 📝 Extracts all visible text and images from the current webpage  
 - 📁 Converts extracted data into a plain text format  
 - ⬇️ Automatically downloads the result as a `.txt` file  
